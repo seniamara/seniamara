@@ -42,7 +42,7 @@ Sou uma **Desenvolvedora Flutter** com mais de dois anos de experiência no dese
 
 ## 📫 Como me Encontrar:
 - 🌐 **LinkedIn**: [Seniamara Benedito](https://www.linkedin.com/in/seniamara-benedito-04630731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 **E-mail**: seniamara@email.com
+- 📧 **E-mail**: seniamaraa@email.com
 - 🖥️ **Portfólio**: [Meu GitHub](https://github.com/seniamara)
 
 ---
